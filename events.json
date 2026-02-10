@@ -1,0 +1,89 @@
+[
+    {
+        "id": 1,
+        "name": "Tech Conference 2023",
+        "date": "2023-11-15",
+        "time": "09:00",
+        "duration": "5 hours",
+        "location": "New York, NY",
+        "description": "A conference about the latest in technology.",
+        "department": "Computer Science",
+        "category": "Conference",
+        "main_image": "./assets/images/tech.jpg",
+        "additional_images": [
+            "./assets/images/tech2.jpg",
+            "./assets/images/tech3.jpg"
+        ],
+        "speakers": [
+            {
+                "firstname": "Speakers",
+                "name": "Alice Johnson",
+                "bio": "Expert in AI and Machine Learning.",
+                "photo": "/assets/images/speaker2.webp"
+            },
+            {
+                "name": "Bob Smith",
+                "bio": "Renowned Software Engineer and Author.",
+                "photo": "./assets/images/speaker.jpg"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Art & Design Expo",
+        "date": "2023-12-05",
+        "time": "10:00",
+        "duration": "8 hours",
+        "location": "Los Angeles, CA",
+        "description": "An expo show the trends in art and design.",
+        "department": "Arts",
+        "category": "Exhibition",
+        "main_image": "./assets/images/art-design1.jpg",
+        "additional_images": [
+            "./assets/images/art-design2.jpg",
+            "./assets/images/art-design3.jpg"
+        ],
+        "speakers": [
+            {
+                "firstname": "Artist",
+                "name": "Catherine Lee",
+                "bio": "Contemporary Artist and Curator.",
+                "photo": "/assets/images/speaker3.png"
+            },
+            {
+                "name": "David Kim",
+                "bio": "Graphic Designer and Illustrator.",
+                "photo": "/assets/images/speaker4.jpg"
+            }
+        ]
+    },
+     {
+        "id": 3,
+        "name": "Sports",
+        "date": "2024-11-06",
+        "time": "09:00",
+        "duration": "7 hours",
+        "location": "USA Washington",
+        "description": "Their goal is physical fitness, health.",
+        "department": "Sports",
+        "category": "Basketball",
+        "main_image": "./assets/images/basket1.jpg",
+        "additional_images": [
+            "./assets/images/art-design2.jpg",
+            "./assets/images/art-design3.jpg"
+        ],
+        "speakers": [
+            {
+                "firstname": "Basketball Coach",
+                "name": "Dino Porcic",
+                "bio": "Porcic played basketball.",
+                "photo": "/assets/images/coach1.jpg"
+            },
+            {
+                "name": "David Kim",
+                "bio": "Graphic Designer and Illustrator.",
+                "photo": "/assets/images/speaker4.jpg"
+            }
+        ]
+    }
+]

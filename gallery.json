@@ -1,0 +1,26 @@
+{
+  "2022-23": [
+    {
+      "title": "Tech Fest 2022",
+      "category": "Technical",
+      "image": "./assets/images/tech3.jpg"
+    },
+    {
+      "title": "Annual Sports Meet",
+      "category": "Sports",
+      "image": "./assets/images/sports.webp"
+    }
+  ],
+  "2023-24": [
+    {
+      "title": "Cultural Night",
+      "category": "Cultural",
+      "image": "./assets/images/cultural_fest.jpg"
+    },
+    {
+      "title": "Robotics Expo",
+      "category": "Technical",
+      "image": "./assets/images/robot.jpeg"
+    }
+  ]
+}

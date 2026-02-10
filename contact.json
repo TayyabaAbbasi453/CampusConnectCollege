@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Dr. Sarah Ahmed",
+    "designation": "Faculty Coordinator",
+    "department": "Computer Science",
+    "phone": "+92-300-1234567",
+    "email": "sarah.ahmed@campus.edu"
+  },
+  {
+    "name": "Ali Raza",
+    "designation": "Student Coordinator",
+    "department": "Electrical Engineering",
+    "phone": "+92-322-9876543",
+    "email": "ali.raza@campus.edu"
+  },
+  {
+    "name": "Fatima Khan",
+    "designation": "Student Coordinator",
+    "department": "Business Administration",
+    "phone": "+92-345-8765432",
+    "email": "fatima.khan@campus.edu"
+  }
+]
